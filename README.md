@@ -1,6 +1,6 @@
 # Computer-Arch-NTHU2026
 
-## Ref: Computer Architecture Spring 2025
+## Ref: Computer Architecture Spring 2026
 
 ## Outline:
 - [ ] 0: Course outline (Class: lec0.pptx)
